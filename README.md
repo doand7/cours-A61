@@ -15,7 +15,7 @@ Créer un package
 
 # Description
 
-Ce projet consiste à suivre une série d'étapes dans un virtualenv en utilisant un outil de test automatisé piloté par ligne de commande pour Python - TOX, afin de valider la compréhension des fonctionnalités de Git, des tests untaires, de validation des données dans le modèle, de l’ingénierie des fonctionnalités dans le pipeline, de gestion des versions et journalisation, de l'utilisation d'un utilitaire de CI (CircleCI) et d'un utilitaire de publication pour la mise en production (Gemfury) :
+Ce projet consiste à suivre une série d'étapes dans un virtualenv en utilisant un outil de test automatisé piloté par ligne de commande pour Python - TOX, afin de valider la compréhension des fonctionnalités de Git, des tests unitaires, de validation des données dans le modèle, de l’ingénierie des fonctionnalités dans le pipeline, de gestion des versions et journalisation, de l'utilisation d'un utilitaire de CI (CircleCI) et d'un utilitaire de publication pour la mise en production (Gemfury) :
 
 Partie-1 : Init setup
 
