@@ -1,8 +1,7 @@
 # cours-A61
 Préparation de la solution d'IA pour la mise en production
 
-
-Objectif global du projet
+# Objectif global du projet
 
 Faire des prédictions avec le modèle et tester la méthode predict
 
@@ -14,8 +13,7 @@ Gestion des versions et journalisation
 
 Créer un package
 
-
-Description
+# Description
 
 Ce projet consiste à suivre une série d'étapes dans un virtualenv en utilisant un outil de test automatisé piloté par ligne de commande pour Python - TOX, afin de valider la compréhension des fonctionnalités de Git, des tests untaires, de validation des données dans le modèle, de l’ingénierie des fonctionnalités dans le pipeline, de gestion des versions et journalisation, de l'utilisation d'un utilitaire de CI (CircleCI) et d'un utilitaire de publication pour la mise en production (Gemfury) :
 
